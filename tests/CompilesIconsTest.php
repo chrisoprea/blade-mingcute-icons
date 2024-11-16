@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use ChrisOprea\MingCute\BladeMingCuteIconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
+use ChrisOprea\MingCute\BladeMingCuteIconsServiceProvider;
 use Orchestra\Testbench\TestCase;
 
 class CompilesIconsTest extends TestCase
