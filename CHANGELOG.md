@@ -6,7 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased changes
 
+### Documentation
+- :robot: changelog file generated [`68f36fd`](https://github.com/chrisoprea/blade-mingcute-icons/commit/68f36fd)
+
 ### Chore
+- ✨ update README [`1bb3fa7`](https://github.com/chrisoprea/blade-mingcute-icons/commit/1bb3fa7)
 - ✨ update README [`5050094`](https://github.com/chrisoprea/blade-mingcute-icons/commit/5050094)
 
 ## 1.0.0 (2024-11-16)
