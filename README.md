@@ -27,7 +27,7 @@ For a full list of available icons, see [the SVG directory](resources/svg) or pr
 ## Installation
 
 ```bash
-composer require blade-ui-kit/blade-mingcute-icons
+composer require chrisoprea/blade-mingcute-icons
 ```
 
 ## Blade Icons
