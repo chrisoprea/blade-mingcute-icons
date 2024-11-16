@@ -15,7 +15,7 @@ final class BladeMingCuteIconsServiceProvider extends ServiceProvider
             $factory->add(
                 set: 'mingcute-icons',
                 options: [
-                    'path' => __DIR__ . '/../resources/svg',
+                    'path' => __DIR__.'/../resources/svg',
                     'prefix' => 'mingcute',
                 ]
             );
