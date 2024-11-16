@@ -13,9 +13,9 @@ class CompilesIconsTest extends TestCase
     /** @test */
     public function it_compiles_a_single_anonymous_component()
     {
-        $result = svg('mingcute-development.code_fill')->toHtml();
+        $result = svg('mingcute-development.code-fill')->toHtml();
 
-        $expected = file_get_contents('resources/svg/development/code_fill.svg');
+        $expected = file_get_contents('resources/svg/development/code-fill.svg');
 
         $this->assertSame($expected, $result);
     }
