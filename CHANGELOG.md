@@ -9,6 +9,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Feature
 - add configuration and category support for MingCute icons [`9b9638d`](https://github.com/chrisoprea/blade-mingcute-icons/commit/9b9638d)
 
+### Bug Fixes
+- add viewBox attribute to all icons [`6ecf97d`](https://github.com/chrisoprea/blade-mingcute-icons/commit/6ecf97d)
+
+### Documentation
+- :robot: changelog file generated [`123bfdb`](https://github.com/chrisoprea/blade-mingcute-icons/commit/123bfdb)
+
 ## 1.1.1 (2024-11-16)
 
 ### Bug Fixes
