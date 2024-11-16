@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ChrisOprea\\MingCuteI\\BladeMingCuteIconsServiceProvider.php"
+                "ChrisOprea\\MingCute\\BladeMingCuteIconsServiceProvider.php"
             ]
         }
     },
