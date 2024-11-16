@@ -6,7 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased changes
 
+### Feature
+- add configuration and category support for MingCute icons [`9b9638d`](https://github.com/chrisoprea/blade-mingcute-icons/commit/9b9638d)
+
+## 1.1.1 (2024-11-16)
+
+### Bug Fixes
+- service provider registration [`bfd55ba`](https://github.com/chrisoprea/blade-mingcute-icons/commit/bfd55ba)
+
+## 1.1.0 (2024-11-16)
+
+## 1.0.1 (2024-11-16)
+
+### Bug Fixes
+- service provider registration [`bfd55ba`](https://github.com/chrisoprea/blade-mingcute-icons/commit/bfd55ba)
+- update service provider path [`505bf18`](https://github.com/chrisoprea/blade-mingcute-icons/commit/505bf18)
+- remove config and update service provider path [`cbf54b3`](https://github.com/chrisoprea/blade-mingcute-icons/commit/cbf54b3)
+
 ### Documentation
+- :robot: changelog file generated [`7c2af79`](https://github.com/chrisoprea/blade-mingcute-icons/commit/7c2af79)
 - :robot: changelog file generated [`68f36fd`](https://github.com/chrisoprea/blade-mingcute-icons/commit/68f36fd)
 
 ### Chore
