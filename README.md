@@ -1,18 +1,18 @@
 # Blade Mingcute Icons
 
 <p align="center">
-    <img src="art/screenshot.jpg" width="1600" title="Mingcute Icons">
+    <img src="art/figmaplug.png" width="1600" title="Mingcute Icons">
 </p>
 
 <p align="center">
-    <a href="https://github.com/blade-ui-kit/blade-mingcute-icons/actions?query=workflow%3ATests">
-        <img src="https://github.com/blade-ui-kit/blade-mingcute-icons/workflows/Tests/badge.svg" alt="Tests">
+    <a href="https://github.com/chrisoprea/blade-mingcute-icons/actions?query=workflow%3ATests">
+        <img src="https://github.com/chrisoprea/blade-mingcute-icons/workflows/Tests/badge.svg" alt="Tests">
     </a>
-    <a href="https://packagist.org/packages/blade-ui-kit/blade-mingcute-icons">
-        <img src="https://img.shields.io/packagist/v/blade-ui-kit/blade-mingcute-icons" alt="Latest Stable Version">
+    <a href="https://packagist.org/packages/chrisoprea/blade-mingcute-icons">
+        <img src="https://img.shields.io/packagist/v/chrisoprea/blade-mingcute-icons" alt="Latest Stable Version">
     </a>
-    <a href="https://packagist.org/packages/blade-ui-kit/blade-mingcute-icons">
-        <img src="https://img.shields.io/packagist/dt/blade-ui-kit/blade-mingcute-icons" alt="Total Downloads">
+    <a href="https://packagist.org/packages/chrisoprea/blade-mingcute-icons">
+        <img src="https://img.shields.io/packagist/dt/chrisoprea/blade-mingcute-icons" alt="Total Downloads">
     </a>
 </p>
 
@@ -77,7 +77,7 @@ Then use them in your views like:
 
 ## MGC Icon System
 
-[![image](art/MGC_cover.png "MGC Icon System")](https://mgc.mingcute.com)
+[![image](art/MingCute_icon.png "MGC Icon System")](https://mgc.mingcute.com)
 
 [MGC Icon System](https://mgc.mingcute.com) is a comprehensive collection of over 13,600 high-quality vector icons across nine styles: cute light, cute regular, cute filled, sharp, light, regular, filled, duotone, and two-tone.It is an upgraded version of MingCute.
 
